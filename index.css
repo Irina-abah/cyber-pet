@@ -1,0 +1,26 @@
+.main {
+  /* position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); */
+}
+
+img {
+  width: 350px;
+  align-self: center;
+}
+
+.header {
+  text-align: center;
+}
+
+.peppa {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.start-info {
+  white-space: pre-line;
+  text-align: center;
+}
